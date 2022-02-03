@@ -1,0 +1,21 @@
+---
+students:
+- name: akil
+  phone: 25678954265
+  adress:
+      - doorno: 564
+      - stret: 2nd
+      - pincode: 52645
+     
+- name: ravi
+  phone: 564582664
+  adress: 
+      - doorno: 564
+      - stret: 2nd
+      - pincode: 52645
+- name: sunil
+  phone: 564289715
+  adress: 
+      - doorno: 564
+      - stret: 2nd
+      - pincode: 52645
